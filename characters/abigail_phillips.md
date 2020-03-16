@@ -1,20 +1,21 @@
-# Abigail "Abbi" Phillips
+# Phillips, Abigail
 
 ## Characteristics
 
 | Characteristic | Description |
-|----------------|-------------|
-| Appearance     |             |
-| Occupation     |             |
+| :--- | :--- |
+| Appearance |  |
+| Occupation |  |
 
 ## Residence / Workplace
 
-|  Type | Description |
-|:-----:|-------------|
-|       |             |
+| Type | Description |
+| :---: | :--- |
+|  |  |
 
 ## Family / Friends
 
 | Relation | Name |
-|----------|------|
-|          |      |
+| :--- | :--- |
+|  |  |
+
