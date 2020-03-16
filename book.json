@@ -1,0 +1,15 @@
+{
+    "title": "World of Until Valhalla",
+    "author": "Clinton Bush",
+    "plugins": [ "-sharing", "expandable-chapters" ],
+    "pluginsConfig": {
+        "fontsettings": {
+            "theme": "night",
+            "family": "sans",
+            "size": 2
+        }
+    },
+    "styles": {
+        "website": "styles/website.css"
+    }
+}
