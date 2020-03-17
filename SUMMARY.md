@@ -10,6 +10,6 @@
 * [Locations](locations/README.md)
   * [Ukiah, CA](locations/ukiah-ca/README.md)
     * [GC Recruiting Center](locations/ukiah-ca/gc_recruiting_center.md)
-* [Organizations2](organizations/README.md)
+* [Organizations](organizations/README.md)
   * [Global Coalition](organizations/global_coalition.md)
 

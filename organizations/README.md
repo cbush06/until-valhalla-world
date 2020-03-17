@@ -1,2 +1,2 @@
-# Organizations2
+# Organizations
 
