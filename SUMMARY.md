@@ -12,4 +12,5 @@
     * [GC Recruiting Center](locations/ukiah-ca/gc_recruiting_center.md)
 * [Organizations](organizations/README.md)
   * [Global Coalition](organizations/global_coalition.md)
+  * [GC Marines](organizations/gc_marines.md)
 
